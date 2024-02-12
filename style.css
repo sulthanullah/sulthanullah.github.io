@@ -19,7 +19,7 @@
 
       body {
         background-color: black;
-        background-image:url(file:///D:/SISMIOP/the-cyberpank-portfolio/the-cyberpank-portfolio/dist/bg/bg.gif);
+        background-image:url("https://test.solselkab.go.id/bg.gif");
         width: 100vw;
         height: 100vh;
       }
